@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PinnPlanner_v2</string>
+    <string name="tab_text_1">Not Started</string>
+    <string name="tab_text_2">In Progress</string>
+    <string name="tab_text_3">Completed</string>
+    <string name="tasktitle">Task Title</string>
+    <string name="taskDesc">Task Description</string>
+    <string name="taskTime">Task Time</string>
+    <string name="taskDate">Task Date</string>
+</resources>
